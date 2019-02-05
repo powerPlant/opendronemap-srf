@@ -6,4 +6,4 @@ Maintainer tejas.sevak@plantandfood.co.nz
 Version 0.4.0
 
 %runscript
-  run.py "$@"
+  exec run.py "$@"
